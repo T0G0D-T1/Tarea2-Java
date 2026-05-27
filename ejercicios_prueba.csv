@@ -1,0 +1,21 @@
+codigo,nombre,tipo,nivel_intensidad,tiempo_minutos,descripcion,ultima_semana_uso
+E001,Trote suave en cinta,Cardiovascular,Básico,15,Trote continuo a ritmo moderado manteniendo respiración controlada,1
+E002,Bicicleta estática inicial,Cardiovascular,Básico,20,Pedalear a velocidad constante con baja resistencia,2
+E003,Saltos de cuerda moderados,Cardiovascular,Intermedio,10,Realizar saltos continuos manteniendo coordinación y ritmo,3
+E004,HIIT en bicicleta,Cardiovascular,Avanzado,18,Alternar 30 segundos de alta intensidad con 1 minuto suave,4
+E005,Sprints en cinta,Cardiovascular,Alto rendimiento,12,Realizar carreras explosivas de máxima velocidad por intervalos,5
+E006,Remo ergométrico,Cardiovascular,Intermedio,16,Simular movimiento de remo manteniendo postura correcta,1
+E007,Escaladora intensa,Cardiovascular,Avanzado,14,Subir escalones a ritmo elevado durante toda la sesión,2
+E008,Circuito burpees,Cardiovascular,Alto rendimiento,15,Ejecutar burpees continuos con descansos mínimos,3
+E009,Caminata inclinada,Cardiovascular,Básico,25,Caminar en cinta con inclinación leve y ritmo constante,4
+E010,Mountain climbers,Cardiovascular,Intermedio,8,Realizar movimiento alternado de rodillas al pecho rápidamente,5
+E011,Sentadillas libres,Fuerza,Básico,12,Flexionar rodillas manteniendo espalda recta y pies alineados,1
+E012,Flexiones de brazos,Fuerza,Intermedio,10,Descender el pecho hasta casi tocar el suelo y subir controladamente,2
+E013,Peso muerto con barra,Fuerza,Avanzado,15,Levantar barra desde el suelo manteniendo espalda recta,3
+E014,Press banca explosivo,Fuerza,Alto rendimiento,12,Empujar la barra rápidamente manteniendo control del movimiento,4
+E015,Zancadas con mancuernas,Fuerza,Intermedio,14,Avanzar alternando piernas con peso moderado en ambas manos,5
+E016,Plancha abdominal,Fuerza,Básico,6,Mantener el cuerpo alineado apoyado en antebrazos y puntas de pies,1
+E017,Dominadas pronas,Fuerza,Avanzado,10,Elevar el cuerpo hasta superar la barra con el mentón,2
+E018,Cargada olímpica,Fuerza,Alto rendimiento,18,Levantar la barra explosivamente hasta los hombros,3
+E019,Puente de glúteos,Fuerza,Básico,8,Elevar la cadera manteniendo contracción abdominal y glútea,4
+E020,Press militar,Fuerza,Intermedio,11,Empujar peso por encima de la cabeza manteniendo estabilidad,5
